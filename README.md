@@ -88,6 +88,8 @@ The website was designed with a mobile-first approach, ensuring:
 
 <p align="center">
   <img src="Screenshots/mobile-home.png" width="300">
+</p>
+<p align="center">
   <img src="Screenshots/mobile-models.png" width="300">
 </p>
 
